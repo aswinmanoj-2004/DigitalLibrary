@@ -1,5 +1,7 @@
 # Digital Library — *Ready 2 Read*
 
+🔗 **Live demo:** https://ready2read.infinityfreeapp.com/
+
 A web-based digital library platform built with **PHP** and **MySQL**, where authors
 publish and sell e-books, readers discover/buy/download and review them, and an
 admin manages the whole catalog and community.
